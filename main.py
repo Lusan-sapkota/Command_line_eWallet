@@ -136,7 +136,7 @@ def exit_program():
 def main():
     # Load existing user data or initialize an empty dictionary
     users_data = load_user_data()
-    print("eWallet --> Proudly made by LUSAN SAPKOTA")
+    print("eWallet ---> Proudly made by LUSAN SAPKOTA")
 
     while True:
         # Get user credentials
