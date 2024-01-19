@@ -1,32 +1,14 @@
 {
-    "9848189845": {
+    "1234567890": {
         "name": "LUSAN SAPKOTA",
-        "pin": "7890",
-        "password": "Lusan@7890",
+        "pin": "1234",
+        "password": "Lusan@12345",
         "balance": 3800.0
     },
-    "9849581966": {
-        "name": "SABITRA ARYAL",
+    "0987654321": {
+        "name": "RAM SAPKOTA",
         "pin": "1234",
-        "password": "Sabitra@1234",
+        "password": "Ram@1234",
         "balance": 1200.0
-    },
-    "9702773476": {
-        "name": "Puspa Kunwar",
-        "pin": "2345",
-        "password": "Puspa@2345",
-        "balance": 0.0
-    },
-    "9812345678": {
-        "name": "AAYUSH KUNWAR",
-        "password": "Aayush@1234",
-        "pin": "1245",
-        "balance": 0.0
-    },
-    "9812347890": {
-        "name": "SHARBAN KUMAR AIDEE",
-        "password": "Sharban@123",
-        "pin": "1111",
-        "balance": 0.0
     }
 }
