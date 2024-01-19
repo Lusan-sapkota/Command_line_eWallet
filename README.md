@@ -17,7 +17,7 @@ All the main code is in main file and user data in user_data.json
 Even if you don't have money in your pocket, here you can be billionare.
 <hr>
 I'm planning to make this project a huge one as i want to add more features in it and make a web and gui version of it as well, if anyone want to you can reach me through my insta or mail in profile.
-<br*2>
+<br>
 Let's work together.
 
 
